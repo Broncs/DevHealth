@@ -10,7 +10,7 @@ export const ChallengeBox = () => {
   const { resetCountdown } = useContext(CountdownContext);
 
   const handleChallengeSucceeded = () => {
-    resetChallenge();
+    completeChallenge();
     resetCountdown();
   };
 
