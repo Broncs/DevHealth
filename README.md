@@ -2,7 +2,7 @@
 
 ## ℹ️ Sobre o projeto
 
-Projeto para Exercitasse usando a tecnica de pomodoro , com um sistema de level e experiencia por desafios completados .
+Projeto usando a tecnica de pomodoro , com um sistema de level e experiencia por desafios completados .
 
 ## Demonstação
 
